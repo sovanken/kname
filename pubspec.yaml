@@ -1,0 +1,28 @@
+name: kname
+description: >
+  A comprehensive Khmer name generation package for Dart and Flutter. 
+  Generate culturally rich Khmer names with support for gender filtering, 
+  romanization, origin, meaning, category, and more.
+version: 1.0.0+1
+homepage: https://github.com/sovanken/kname
+repository: https://github.com/sovanken/kname
+issue_tracker: https://github.com/sovanken/kname/issues
+publish_to: 'https://pub.dev'
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/khmer_names.json
