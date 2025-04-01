@@ -7,7 +7,6 @@ version: 0.1.0
 homepage: https://github.com/sovanken/kname
 repository: https://github.com/sovanken/kname
 issue_tracker: https://github.com/sovanken/kname/issues
-publish_to: 'https://pub.dev'
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
