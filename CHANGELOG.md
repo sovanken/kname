@@ -1,4 +1,4 @@
-## [1.0.0] 
+## [0.1.0] 
 
 🎉 Initial stable release of the `kname` package.
 
